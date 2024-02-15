@@ -1,4 +1,4 @@
-# Pandas Data Analysis Guide
+# Introduction to Machine Learning
 
 Welcome to this comprehensive guide on data analysis using pandas! In this series, we will explore the powerful features and functionalities offered by pandas, a popular data manipulation library in Python.
 
